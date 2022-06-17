@@ -24,7 +24,9 @@ namespace Yummy_Backen.Controllers
             {
                 Hero = await context.Heroes.FirstOrDefaultAsync(),
                 About = await context.Abouts.FirstOrDefaultAsync(),
-                Chooses = await context.Chooses.ToListAsync()
+                Chooses = await context.Chooses.ToListAsync(),
+                Meals = await context.Meals.ToListAsync(),
+                TypesofFoods = await context.TypesofFoods.ToListAsync()
             };
             
             return View(model);

@@ -19,5 +19,9 @@ namespace Yummy_Backen.DAL
         public DbSet<About>Abouts{ get; set; }
 
         public DbSet<Choose> Chooses{ get; set; }
+
+        public DbSet<Meal> Meals{ get; set; }
+
+        public DbSet<TypesofFood> TypesofFoods { get; set; }
     }
 }

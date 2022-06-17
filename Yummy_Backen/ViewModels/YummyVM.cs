@@ -13,5 +13,9 @@ namespace Yummy_Backen.ViewModels
         public About About { get; set; }
 
         public List<Choose> Chooses { get; set; }
+
+        public List<Meal> Meals { get; set; }
+
+        public List<TypesofFood> TypesofFoods{ get; set; }
     }
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tu758403c\\source\\repos\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj": {}
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tu758403c\\source\\repos\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj": {
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu758403c\\source\\repos\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj",
+        "projectUniqueName": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj",
         "projectName": "Yummy_Backen",
-        "projectPath": "C:\\Users\\tu758403c\\source\\repos\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj",
-        "packagesPath": "C:\\Users\\tu758403c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu758403c\\source\\repos\\Yummy_Backen\\Yummy_Backen\\obj\\",
+        "projectPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\Yummy_Backen\\Yummy_Backen\\Yummy_Backen.csproj",
+        "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\Yummy_Backen\\Yummy_Backen\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tu758403c\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ilkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
